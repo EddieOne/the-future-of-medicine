@@ -2,7 +2,7 @@ Feeding the [GloVe][1] model with my local copy of wikipedia health and medicine
 
 ![medical-tsne-plot](https://github.com/EddieOne/the-future-of-medicine/blob/master/pulmonary-toxicity.jpg?raw=true)
  
-In this next area, we see the financial cost of medicine. The words: money, 1%, acquired, Medicare, coverage, and plan appear. This shows us some biases that the data is north america centric. The UK is absent from the financial area because it is no longer an active problem. It’s a devolved matter. We see Soviet nearby with some relation because of the social healthcare at the time. This part of history introduces the possibility of normalizing more data, to teach and understand more global medical knowledge. Basically, this gives a glimpse of what is possible with machine learning and medicine.
+In this next area, we see the financial cost of medicine. The words: money, 1%, acquired, Medicare, coverage, and plan appear. This shows us some biases that the data is north america centric. The UK is absent from the financial area because it is no longer an active problem. It’s a devolved matter. We see Soviet nearby with some relation because of the social healthcare at the time. This part of history introduces the possibility of normalizing more data, to teach and understand more global medical knowledge. Basically, this gives a glimpse of what is possible with machine learning and medicine. This gives us evidence that medical discovery is possible using computer modeling aka machine learning.
 
 ![medical-tsne-plot](https://github.com/EddieOne/the-future-of-medicine/blob/master/healthcare-money.jpg?raw=true)
 
